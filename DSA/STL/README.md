@@ -36,10 +36,3 @@ If you have any questions or feedback, feel free to reach out!
 ### Happy Coding!
 
 """
-
-# Save the updated content as README.md
-file_path_updated = "/mnt/data/README_updated.md"
-with open(file_path_updated, "w") as file:
-    file.write(readme_content_updated)
-
-file_path_updated
