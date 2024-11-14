@@ -1,5 +1,4 @@
 
-# Revised README content
 # Coding Repository
 
 Welcome to my personal coding repository! Here, I upload my code files across various topics, including data structures, algorithms, STL (Standard Template Library) in C++. This repository serves as a collection of my work and projects, showcasing my coding skills and problem-solving abilities.
